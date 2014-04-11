@@ -23,6 +23,8 @@ $ cd solum-m1-demo
 $ vagrant up
 ```
 
+The vagrant box is quite large (roughly 2gb) and will take a while to download the first time.
+
 ## Log in
 
 Log into the Vagrant box and authenticate to Keystone:
